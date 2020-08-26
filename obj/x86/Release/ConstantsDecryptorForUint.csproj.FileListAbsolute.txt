@@ -1,0 +1,12 @@
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\ConfuserExConstantDecryptor.exe.config
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\ConfuserExConstantDecryptor.exe
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\ConfuserExConstantDecryptor.pdb
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\dnlib.dll
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\dnlib.pdb
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\bin\Release\dnlib.xml
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConfuserExConstantDecryptor.MainForm.resources
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConstantsDecryptorForUint.csproj.GenerateResource.cache
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConstantsDecryptorForUint.csproj.CoreCompileInputs.cache
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConstantsDecryptorForUint.csproj.CopyComplete
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConfuserExConstantDecryptor.exe
+C:\Users\devli\source\repos\ConstantsDecrypterUINT\ConfuserExConstantDecryptor\obj\x86\Release\ConfuserExConstantDecryptor.pdb

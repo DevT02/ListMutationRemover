@@ -1,0 +1,10 @@
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\bin\Debug\ConfuserExConstantDecryptor.exe.config
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\bin\Debug\ConfuserExConstantDecryptor.exe
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\bin\Debug\ConfuserExConstantDecryptor.pdb
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\bin\Debug\dnlib.dll
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ConfuserExConstantDecryptor.MainForm.resources
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ListMutationRemover.csproj.GenerateResource.cache
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ListMutationRemover.csproj.CoreCompileInputs.cache
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ListMutationRemover.csproj.CopyComplete
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ConfuserExConstantDecryptor.exe
+C:\Users\devli\source\repos\ListDecrypter\ConfuserExConstantDecryptor\obj\x86\Debug\ConfuserExConstantDecryptor.pdb
