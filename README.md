@@ -13,8 +13,9 @@ Yes, i am aware of the DnSpy-generated folder. I was pretty lazy and wasn't up t
 
 
 # How it works
-- First, it gets every (List.ADD) from the internal <MODULE> and adds it to an arraylist.
+- First, it gets every (List.ADD) from the static <MODULE> and adds it to an arraylist.
 - Then for every time an access variable is called for the List, we get ONLY the *index number* (not value).
-- After that, we find the number inside our arraylist using our index
-- Finally, we replace everything with nops except 1 OpCode, where we just leave the returned number
+- After that, we find the number inside our arraylist using this index number
+- Finally, we replace everything with nops except 1 OpCode, where we just leave the returned number (ldc.i4)
+  
 
