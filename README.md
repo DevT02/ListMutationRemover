@@ -1,6 +1,8 @@
 # ListMutationRemover
 ## Remove list mutations
 
+List mutations use a special trick where instead of pre-declaring the elements in the array, the array elements are only added during runtime.
+ 
 Before:
 ![image](https://user-images.githubusercontent.com/40608267/91338149-7c0a7600-e7a2-11ea-9045-18fe013e69e8.png)
 ![image](https://user-images.githubusercontent.com/40608267/91338114-6c8b2d00-e7a2-11ea-8902-adaeb556d41a.png)
